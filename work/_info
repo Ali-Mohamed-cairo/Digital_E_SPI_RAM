@@ -1,0 +1,238 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dO:/Digital_Design_Diploma/Projects/Mini_Project
+T_opt
+!s110 1722778682
+Vg=Od;I1k3V>5]Kj>GVm9W3
+04 8 4 work RAM_test fast 0
+=1-002b67dfc614-66af8439-2-77fc
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1722838670
+VbU8GJof]bVaXP8zN5X`D]2
+04 6 4 work SPI_tb fast 0
+=1-002b67dfc614-66b06e8e-d5-4320
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+vCounter
+Z6 !s110 1722869455
+!i10b 1
+!s100 MPF`<gM<U_Sf[5g?fhDP11
+IP^2eI^L^S5f1hjRTn0FTM0
+Z7 dO:/Digital_Design_Diploma/Projects/Design_Final_Project
+w1722779494
+8Counter.v
+FCounter.v
+!i122 480
+L0 1 15
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1722869455.000000
+!s107 SPI_Wrapper_tb.v|Counter.v|GPR.v|RAM.v|SPI_Slave.v|SPI_Wrapper.v|
+Z11 !s90 -reportprogress|300|SPI_Wrapper.v|SPI_Slave.v|RAM.v|GPR.v|Counter.v|SPI_Wrapper_tb.v|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@counter
+vGPR
+R6
+!i10b 1
+!s100 B_aZ^2H_0m]zn8df>mg[32
+Ik2U1NWFEAOVka?:9AUbgO1
+R7
+w1722789372
+8GPR.v
+FGPR.v
+!i122 480
+L0 4 18
+R8
+R9
+r1
+!s85 0
+31
+R10
+Z13 !s107 SPI_Wrapper_tb.v|Counter.v|GPR.v|RAM.v|SPI_Slave.v|SPI_Wrapper.v|
+R11
+!i113 0
+R12
+R4
+n@g@p@r
+vRAM
+R6
+!i10b 1
+!s100 hc^VPP]6877?LH_^oTZg=1
+IfaHn19zSZZjRRIAz9S@DB0
+R7
+w1722837490
+8RAM.v
+FRAM.v
+!i122 480
+L0 1 48
+R8
+R9
+r1
+!s85 0
+31
+R10
+R13
+R11
+!i113 0
+R12
+R4
+n@r@a@m
+vRAM_test
+!s110 1722869443
+!i10b 1
+!s100 efi5n5oE9^REoY`NJ=aEj3
+I4P:8H9g4Vb5XgV[SCQ5Mn3
+R7
+w1722655342
+8O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM_tb.v
+FO:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM_tb.v
+!i122 474
+L0 1 33
+R8
+R9
+r1
+!s85 0
+31
+!s108 1722869443.000000
+!s107 O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM_tb.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@r@a@m_test
+vSPI_Slave
+R6
+!i10b 1
+!s100 hOif`f=3WBoX>6nR3C]CD0
+I<IIFUXh_aVA]=:o3@V>lG1
+R7
+w1722841744
+8SPI_Slave.v
+FSPI_Slave.v
+!i122 480
+L0 7 124
+R8
+R9
+r1
+!s85 0
+31
+R10
+R13
+R11
+!i113 0
+R12
+R4
+n@s@p@i_@slave
+vSPI_tb
+R6
+!i10b 1
+!s100 A[8YT0<V`nm1fPMWm0CDi3
+I4O?XWkIdDcNHKD1R97UQZ2
+R7
+w1722835848
+8SPI_Wrapper_tb.v
+FSPI_Wrapper_tb.v
+!i122 480
+L0 1 93
+R8
+R9
+r1
+!s85 0
+31
+R10
+R13
+R11
+!i113 0
+R12
+R4
+n@s@p@i_tb
+vSPI_Wrapper
+R6
+!i10b 1
+!s100 ]LhPEQ9^<g<D=B=gLUniV3
+I`Y53:;UCeJWJPbfg1Q_<10
+R7
+w1722838022
+8SPI_Wrapper.v
+FSPI_Wrapper.v
+!i122 480
+L0 1 22
+R8
+R9
+r1
+!s85 0
+31
+R10
+R13
+R11
+!i113 0
+R12
+R4
+n@s@p@i_@wrapper

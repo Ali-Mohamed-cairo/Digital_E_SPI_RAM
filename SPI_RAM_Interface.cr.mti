@@ -1,0 +1,46 @@
+O:/Digital_Design_Diploma/Projects/Design_Final_Project/Counter.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/Counter.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Design_Final_Project/SPI_Wrapper.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/SPI_Wrapper.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_Wrapper
+
+Top level modules:
+	SPI_Wrapper
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Design_Final_Project/GPR.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/GPR.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM_tb.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/RAM_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM_test
+
+Top level modules:
+	RAM_test
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Design_Final_Project/SPI_Wrapper_tb.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/SPI_Wrapper_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_tb
+
+Top level modules:
+	SPI_tb
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Design_Final_Project/SPI_Slave_tb.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Design_Final_Project/SPI_Slave_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}}
